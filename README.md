@@ -45,4 +45,4 @@ At the end of this hands-on lab, you will be better able to migrate and deploy O
 App Modernization
 
 ## Related references
-- [MCW](https://github.com/Microsoft/MCW)
+-
